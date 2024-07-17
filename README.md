@@ -19,6 +19,7 @@ This application processes receipts and calculates points based on specific rule
 - **Response**: JSON object containing the points awarded for the receipt.
 
 ## Running the Application
-1. Clone the repository
-2. In the project directory run "go run main.go"
-3. Execute unit tests by running "go test ./..." in the project directory
+1. Clone the repository with "git clone https://github.com/tish978/fetch-backend-exercise.git"
+2. Go to project directory with "cd fetch-backend-exercise"
+3. Run the application with "go run main.go" to perform any live testing
+4. Execute the automated unit tests by running "go test ./..."
